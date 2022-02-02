@@ -11,7 +11,7 @@ const vcard = 'BEGIN:VCARD\n' // metadata of the contact card
             + 'VERSION:3.0\n' 
             + 'FN:AMRU-SER [OWNER]\n' // full name
             + 'ORG:AMRU-SER;\n' // 
-            + 'TEL;type=CELL;type=VOICE;waid=917025631103:+91 7025994178\n' // WhatsApp ID + phone number
+            + 'TEL;type=CELL;type=VOICE;waid=919947178184:+91 9947178184\n' // WhatsApp ID + phone number
             + 'END:VCARD'
-await message.client.sendMessage(message.jid,{displayname: "AMRU-SER [OWNER]", vcard: vcard}, MessageType.contact)
+await message.client.sendMessage(message.jid,{displayname: "FOX-SIR [OWNER]", vcard: vcard}, MessageType.contact)
 }))
