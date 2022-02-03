@@ -39,7 +39,7 @@ Project created by <a href="https://github.com/Abhishekvao78">FOXSIR</a> to make
 
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AMRUSIR/AMRU-SER.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Abhishekvao78/FOXSIR.git)
 
 SIMPLE BGM BOT ONLY!
 
